@@ -13,10 +13,15 @@ I developed an interactive Bank Loan Dashboard to analyse loan payments, interes
 ✅Key Features:
 
 Loan Distribution by Employment Length: Displays total loan amounts and term counts across various employment durations.
+
 Loan Purpose Analysis: Highlights the major reasons for loan applications, such as debt consolidation, credit cards and home improvements.
+
 Home Ownership vs. Loan Amounts: Compares loan distribution based on homeownership status such as mortgage, rent and owning.
+
 State wise Loan Payments: Identifies states with the highest loan payments, with California leading.
+
 Loan Terms Comparison: Shows the proportion of loans based on 36 month vs 60 month repayment periods.
+
 Key Metrics Display: Includes total loan payments (436M), distinct payments, interest rates (12.05%), and installment counts.
 
 ✅Key Insights:
