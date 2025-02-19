@@ -10,21 +10,21 @@ I developed an interactive Bank Loan Dashboard to analyse loan payments, interes
 
 **Here is the main dashboard. It provides an overview of the loan data, including total payments, interest rates, and installment counts. The interactive filters allow users to refine insights based on term length, verification status, and loan status**.
 
-✅Key Features:
+**✅Key Features:**
 
-Loan Distribution by Employment Length: Displays total loan amounts and term counts across various employment durations.
+🎯Loan Distribution by Employment Length: Displays total loan amounts and term counts across various employment durations.
 
-Loan Purpose Analysis: Highlights the major reasons for loan applications, such as debt consolidation, credit cards and home improvements.
+🎯Loan Purpose Analysis: Highlights the major reasons for loan applications, such as debt consolidation, credit cards and home improvements.
 
-Home Ownership vs. Loan Amounts: Compares loan distribution based on homeownership status such as mortgage, rent and owning.
+🎯Home Ownership vs. Loan Amounts: Compares loan distribution based on homeownership status such as mortgage, rent and owning.
 
-State wise Loan Payments: Identifies states with the highest loan payments, with California leading.
+🎯State wise Loan Payments: Identifies states with the highest loan payments, with California leading.
 
-Loan Terms Comparison: Shows the proportion of loans based on 36 month vs 60 month repayment periods.
+🎯Loan Terms Comparison: Shows the proportion of loans based on 36 month vs 60 month repayment periods.
 
-Key Metrics Display: Includes total loan payments (436M), distinct payments, interest rates (12.05%), and installment counts.
+🎯Key Metrics Display: Includes total loan payments (436M), distinct payments, interest rates (12.05%), and installment counts.
 
-✅Key Insights:
+**✅Key Insights:**
 
 🎯Loan distribution is highest among individuals with 10+ years of employment whilst borrowers with less than 1 year of employment receive significantly lower loan amounts. This shows that  employment length helps lenders assess borrower stability. Longer employment history often translates to higher loan approvals, as seen in the trend where individuals with over 10 years of employment receive the most loan amounts
 
